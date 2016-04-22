@@ -231,3 +231,4 @@
 #define CSR_CAUSE_TIMER_INT		1
 #define CSR_CAUSE_UART			2
 
+#endif //CSR_DEFS
